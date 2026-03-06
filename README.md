@@ -103,7 +103,7 @@ Bílá šipka v gradientním kroužku slouží jako odkaz na celý článek.
 ### 9. Modifikátory kategorií
 Různé kategorie článků mají různé barevné schéma. Barvy se mění pomocí CSS proměnných.
 
-**Požadavky:**
+**Požadavky:**  
 Vytvořte modifikátory pro tři kategorie:
 
 - `.news-item--school` - barva `--color-accent2`
